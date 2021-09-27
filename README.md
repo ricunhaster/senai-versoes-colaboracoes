@@ -1,7 +1,7 @@
 # senai-versoes-colaboracoes
 readme de exemplo
-lembrei do comando : git commit -m
-lembrei do comando: git status
+git commit -m
+git status
 outros comandos para versionamento
 git add
 git branch
